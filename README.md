@@ -7,7 +7,7 @@ I am a software developer with experience in react,javascript, html/css, sql, py
 
 - 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on any flask and nodejs related project
-- 💬 Ask me about Front-End Engineering and any tech related stuff
+- 💬 Ask me about Front-End Engineering, backend and any tech related stuff
 - ⚡ 
 
 <img align = "left" width = "48%" src = "http://github-readme-streak-stats.herokuapp.com/?user=briannanjeri&theme=radical"/>
