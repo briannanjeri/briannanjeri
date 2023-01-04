@@ -2,7 +2,7 @@
 📫 [Twitter](https://twitter.com/briannanjeri) | [LinkedIn](https://www.linkedin.com/in/briannanjeri/)
 ![Viewers](https://gpvc.arturio.dev/briannanjeri)
 <hr />
-I am a software developer with experience in react,javascript, html/css, sql, python and nodejs. I have a passion for solving problems and creating elegant, efficient solutions.Am interactive, collaborative, have increased self understanding and able to engage and partner with other teammates to solve tech problems, always positive and confidence to my work.looking forward to new opportunites and projects engagement. I am always eager to learn new technologies and techniques to enhance my skills and better serve my clients.
+I am a software developer with experience in react,javascript, html/css, sql, python and nodejs.advanced in react and flask. I have a passion for solving problems and creating elegant, efficient solutions.Am interactive and able to engage and partner with other teammates to solve tech problems, always positive and confidence to my work.looking forward to new opportunites and projects engagement. I am always eager to learn new technologies and techniques to enhance my skills and better serve my clients.
 
 
 - 🌱 I’m currently learning nodejs
